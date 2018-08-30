@@ -1,5 +1,5 @@
 # Redux-saga base template for rn-redux
-Redux-saga init easy
+Init project react native with redux, redux-saga is easy
 
 ## How Use:
 
